@@ -1,1 +1,3 @@
-export default class LinkedList {}
+export default class LinkedList {
+    
+}
